@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# Redux auth client-side
 
 ##Getting Started###
 
